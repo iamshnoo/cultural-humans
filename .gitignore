@@ -1,0 +1,8 @@
+__pycache__/
+models/
+results/
+images/
+logs/
+.DS_Store
+.vscode/
+MACOSX/
